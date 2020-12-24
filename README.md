@@ -14,3 +14,6 @@ conducted in my capacity as a Java + Python Tutor @ What After College.
 1. [Python Workshop 5](https://github.com/anishLearnsToCode/python-workshop-wac-5)
 1. [Python Workshop 6](https://github.com/anishLearnsToCode/python-workshop-6)
 1. [Python Workshop 7](https://github.com/anishLearnsToCode/python-workshop-7)
+
+## ML / AI
+1. [Machine Learning Winter Training](https://github.com/anishLearnsToCode/ml-workshop-wac-1)
