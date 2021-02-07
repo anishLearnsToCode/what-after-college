@@ -23,3 +23,4 @@ conducted in my capacity as a Java + Python Tutor @ What After College.
 ## 🧠 ML / AI
 1. [Machine Learning Winter Training 1](https://github.com/anishLearnsToCode/ml-workshop-wac-1)
 1. [Machine Learning Winter Training 2](https://github.com/anishLearnsToCode/ml-workshop-wac-2)
+1. [Machine Learning Winter Training 3](https://github.com/anishLearnsToCode/ml-workshop-wac-3)
